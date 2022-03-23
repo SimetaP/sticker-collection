@@ -5,7 +5,7 @@ _Easy to use page where you can track what stickers you have collected and what 
 
 [Link to website](https://simetap.github.io/sticker-collection/)
 
-![1](https://github.com/SimetaP/sticker-collection/blob/main/readme_photo.PNG)
+![1](https://github.com/SimetaP/sticker-collection/blob/main/readme_photo.png)
 
 ## Built with
  * HTML
